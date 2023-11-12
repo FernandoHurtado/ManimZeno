@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/dante/media/videos/manim1/720p30/partial_movie_files/FirstExample/1342159004_2550228708_223132457.mp4'
+file 'file:/home/dante/media/videos/manim1/720p30/partial_movie_files/FirstExample/1353618911_1149804837_1910347735.mp4'
+file 'file:/home/dante/media/videos/manim1/720p30/partial_movie_files/FirstExample/1353618911_2207827583_3371468316.mp4'
+file 'file:/home/dante/media/videos/manim1/720p30/partial_movie_files/FirstExample/1353618911_891040913_4174018169.mp4'
+file 'file:/home/dante/media/videos/manim1/720p30/partial_movie_files/FirstExample/1353618911_2393252229_1258923668.mp4'
+file 'file:/home/dante/media/videos/manim1/720p30/partial_movie_files/FirstExample/1353618911_957343386_3468783048.mp4'
+file 'file:/home/dante/media/videos/manim1/720p30/partial_movie_files/FirstExample/1353618911_2460040978_3899456720.mp4'
+file 'file:/home/dante/media/videos/manim1/720p30/partial_movie_files/FirstExample/1353618911_957343386_3887488099.mp4'
+file 'file:/home/dante/media/videos/manim1/720p30/partial_movie_files/FirstExample/1353618911_4150079102_3218255855.mp4'
+file 'file:/home/dante/media/videos/manim1/720p30/partial_movie_files/FirstExample/1353618911_957343386_1959286093.mp4'
+file 'file:/home/dante/media/videos/manim1/720p30/partial_movie_files/FirstExample/1353618911_1904251715_916941119.mp4'
+file 'file:/home/dante/media/videos/manim1/720p30/partial_movie_files/FirstExample/1353618911_957343386_3803403455.mp4'
